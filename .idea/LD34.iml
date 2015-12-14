@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Layers.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MyGame.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Network.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MyAssets.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/incl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/packets.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MyGame.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/packets.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/entities/GameWorld.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/entities/Player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/entities/GameWorld.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/entities/Player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Network.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../base/src" />
+          <root url="file://$MODULE_DIR$/../geng/include" />
+          <root url="file://$MODULE_DIR$/../sysent/include" />
+          <root url="file://$MODULE_DIR$/../SAP/include" />
+          <root url="file://$MODULE_DIR$/../maths/src" />
+          <root url="file://$MODULE_DIR$/../assets/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../base/src" />
+          <root url="file://$MODULE_DIR$/../geng/include" />
+          <root url="file://$MODULE_DIR$/../sysent/include" />
+          <root url="file://$MODULE_DIR$/../SAP/include" />
+          <root url="file://$MODULE_DIR$/../maths/src" />
+          <root url="file://$MODULE_DIR$/../assets/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
